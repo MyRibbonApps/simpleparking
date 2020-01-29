@@ -9,7 +9,7 @@
         <h2>Undvik att få p-böter!</h2>
         <br>
         <!-- <p>Apollo har den bästa pizzan, även kebab och sallader.<br>Öppetider: mån-fre 10-22, lör-sön stängt</p> -->
-            <p>En app för att slippa få p-böter.<br> Skapa parkeringar, sätt slut tid<br> och påminelser.<br></p>
+            <p>En app för att slippa få p-böter.<br> Skapa parkeringar, sätt en slut tid<br> och påminnelse.<br></p>
       </div>
     </div>
       <div class="cover">
@@ -26,7 +26,7 @@
         <h2>Undvik att få p-böter!</h2>
         <br>
         <!-- <p>Apollo har den bästa pizzan, även kebab och sallader.<br>Öppetider: mån-fre 10-22, lör-sön stängt</p> -->
-            <p>En app för att slippa få p-böter. Skapa parkeringar, sätt slut tid och påminelser.<br></p>
+            <p>En app för att slippa få p-böter. Skapa parkeringar, sätt en slut tid och påminnelse.<br></p>
       </div>
     </div>
       <div class="cover-mobile1">
@@ -60,7 +60,7 @@
         <h2>Skapa ny parkering</h2>
         <br>
         <!-- <p>Apollo har den bästa pizzan, även kebab och sallader.<br>Öppetider: mån-fre 10-22, lör-sön stängt</p> -->
-            <p>Snyggt och enkelt att skapa en ny parkering. <br>Vi har gjort det så smidigt som möjligt för<br> dig att skapa nya och ändra parkeringar.</p>
+            <p>Snyggt och enkelt att skapa en ny parkering. <br>Vi har gjort det så smidigt som möjligt för<br> dig att skapa nya parkeringar snabbt oh enkelt.</p>
       </div>
   </section>
 
@@ -115,7 +115,7 @@
              <img src="~/assets/points-overview.png" alt="pizza">
       </div> -->
   <div class="mobile-text-under-points">
-       <p>Skapa parkeringar, sätt påminelser en stund innan de går ut och slipp få böter!</p>
+       <p>Skapa parkeringar, sätt påminnelser en stund innan de går ut och slipp få böter!</p>
   </div>
 
   <div class="check-section">
@@ -157,7 +157,7 @@
     </div>
     <div class='column'>
       <div class='green-column'>
-        Sätt påminelse en stund innan
+        Sätt påminnelse en stund innan
       </div>
     </div>
   </div>
