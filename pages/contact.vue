@@ -25,12 +25,24 @@ export default {
 </script>
 
 <style scoped>
+@media (max-width: 780px) {
+h1 {
+    margin-top: 2em;
+    text-align: center;
+    font-size: 1em;
+    font-weight: 500;
+    color: white;
+}
+}
+@media (min-width: 780px) {
 h1 {
     margin-top: 2em;
     text-align: center;
     font-size: 1.5em;
     font-weight: 500;
     color: white;
+}
+
 }
 
 </style>
