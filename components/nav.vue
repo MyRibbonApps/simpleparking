@@ -10,8 +10,8 @@
               </a>
               <ul class="show-desktop" :class="{open : menuOpen}" id="nav">
                   <li @click="menuOpen = false"><img src="~/assets/images/exit.svg" class="exit-btn hide-desktop"></li>
-                  <li @click="goHome"><a class="nav-link-hover">Hem</a></li>
-                  <li @click="goContact"><a class="nav-link-hover">Kontakt</a></li>
+                  <li @click="goHome"><a class="nav-link-hover">Home</a></li>
+                  <li @click="goContact"><a class="nav-link-hover">Terms</a></li>
               </ul>
 
            
@@ -38,7 +38,7 @@ export default {
         this.$router.push('/');
        },
        goContact() {
-        this.$router.push('/contact');
+        this.$router.push('/terms');
        },
     openNav() {
       this.menuOpen = true
