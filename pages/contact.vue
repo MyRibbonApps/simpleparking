@@ -2,7 +2,7 @@
 <page>
     <navBar/>
     <div>
-        <h1>Contact us on email@gmail.com</h1>
+        <h1>Kontakta oss på email@gmail.com</h1>
         
     </div>
 </page>

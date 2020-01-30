@@ -6,11 +6,214 @@
   <section class="presentation hide-mobile-boxes show-desktop-boxes">
     <div class="introduction">
       <div class="intro-text">
-        <h2>Ribbon Five</h2>
+        <h2>Undvik att få p-böter!</h2>
+        <br>
+        <!-- <p>Apollo har den bästa pizzan, även kebab och sallader.<br>Öppetider: mån-fre 10-22, lör-sön stängt</p> -->
+            <p>En app för att slippa få p-böter.<br> Skapa parkeringar, sätt en slut tid<br> och påminnelse.<br></p>
       </div>
     </div>
+      <div class="cover">
+            <img src="~/assets/start-page.png" alt="pizza">
+             <!-- <img src="~/assets/tasks.png" alt="pizza"> -->
+             <!-- <img src="~/assets/start-iOS.png" alt="pizza"> -->
+      </div>
   </section>
 
+
+    <section class="presentation-for-mobile show-desktop-boxes">
+    <div class="introduction-mobile">
+      <div class="intro-text-mobile">
+        <h2>Undvik att få p-böter!</h2>
+        <br>
+        <!-- <p>Apollo har den bästa pizzan, även kebab och sallader.<br>Öppetider: mån-fre 10-22, lör-sön stängt</p> -->
+            <p>En app för att slippa få p-böter. Skapa parkeringar, sätt en slut tid och påminnelse.<br></p>
+      </div>
+    </div>
+      <div class="cover-mobile1">
+        <img src="~/assets/start-page.png" alt="pizza">
+            <!-- <img src="~/assets/tasks.png" alt="pizza"> -->
+             <!-- <img src="~/assets/start-iOS.png" alt="pizza"> -->
+      </div>
+
+         <!-- <div class="under-text-button-mobile">
+              Ladda ned!
+            </div> -->
+            <br>
+            <br>
+            <br>
+            <br>
+  </section>
+
+
+
+
+
+
+
+    <section class="presentation2 hide-mobile-boxes">
+        <div class="introduction">
+      <div class="cover2">
+             <img src="~/assets/create-park.png" alt="openingTimes">
+      </div>
+        </div>
+      <div class="intro-text2">
+        <h2>Skapa ny parkering</h2>
+        <br>
+        <!-- <p>Apollo har den bästa pizzan, även kebab och sallader.<br>Öppetider: mån-fre 10-22, lör-sön stängt</p> -->
+            <p>Snyggt och enkelt att skapa en ny parkering. <br>Vi har gjort det så smidigt som möjligt för<br> dig att skapa nya parkeringar snabbt oh enkelt.</p>
+      </div>
+  </section>
+
+     <section class="presentation-for-mobile show-desktop-boxes">
+         <br>
+         <br>
+         <br>
+         <br>
+    <!-- <div class="introduction-mobile">
+      <div class="intro-text-mobile">
+        <h2>Familjens lösning</h2>
+        <br>
+            <p>Motivera barn med poäng och vecko eller månadspäng. Skapa lugn och ro i familjen och ha sten koll på de kommande uppdragen! Smart och enkel översikt över allas poäng i familjen och vilka uppdrag ssom har gjorts eller ska göras. Appen är utformad att vara enkel att använda och förstå för både barn och stora.<br></p>
+      </div>
+    </div> -->
+      <div class="cover-mobile2">
+             <img src="~/assets/create-park.png" alt="pizza">
+      </div>
+     </section>
+
+
+
+
+
+
+
+<!-- <div class="hide-mobile-boxes">
+    <div id="container">
+      <div class="text-box-new">
+          <h2>Skapa parkering</h2>
+           <br>
+          <p>Skapa vecko - månads poäng som barnen ska uppnå. Välj hur många poäng som ska uppnås och hur mycket pengar det ska vara värt!</p>
+
+      </div>
+        <img src="~/assets/points-page.png" alt="Simple Family">
+    </div>
+</div> -->
+
+     <section class="presentation-for-mobile show-desktop-boxes">
+         <!-- <br>
+         <br>
+         <br>
+         <br> -->
+    <!-- <div class="introduction-mobile">
+      <div class="intro-text-mobile">
+        <h2>Poäng funktionen</h2>
+      </div>
+    </div>
+    <br>
+    <br> -->
+      <!-- <div class="cover-mobile2">
+             <img src="~/assets/points-overview.png" alt="pizza">
+      </div> -->
+  <div class="mobile-text-under-points">
+       <p>Skapa parkeringar, sätt påminnelser en stund innan de går ut och slipp få böter!</p>
+  </div>
+
+  <div class="check-section">
+      <div class='row'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="~/assets/tick.svg" alt="tick" class="tick">
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        Skapa olika parkeringar
+      </div>
+    </div>
+  </div>
+
+
+
+
+        <div class='row2'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="~/assets/tick.svg" alt="tick" class="tick">
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        Välj slut tid
+      </div>
+    </div>
+  </div>
+
+
+          <div class='row2'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="~/assets/tick.svg" alt="tick" class="tick">
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        Sätt påminnelse en stund innan
+      </div>
+    </div>
+  </div>
+
+
+
+
+            <div class='row2'>
+    <div class='column'>
+      <div class='blue-column'>
+        <img src="~/assets/tick.svg" alt="tick" class="tick">
+      </div>
+    </div>
+    <div class='column'>
+      <div class='green-column'>
+        Smart och enkel översikt
+      </div>
+    </div>
+  </div>
+      
+  </div>
+
+<div class="downloads">
+    <div class="over-icons">
+    <div class="apple">
+<img src="~/assets/apple.svg" class="apple-logo" alt="logo">
+    </div>
+        <div class="apple">
+<img src="~/assets/playstore.png" class="playstore-logo" alt="logo">
+    </div>
+</div>
+    </div>
+     </section>
+
+
+
+
+
+
+
+
+   <!-- <section class="presentation3">
+    <div class="introduction">
+      <div class="intro-text">
+        <h2>Våran meny</h2>
+        <br>
+            <p>Pizza, kebab, sallad,<br> dricka.</p>
+            <div class="under-text-button3">
+              Se vad vi erbjuder
+            </div>
+      </div>
+    </div>
+      <div class="cover3">
+             <img src="http://www.kentpizza.com.tr/wp-content/uploads/ikili_orta.png" alt="pizza">
+      </div>
+  </section> -->
 </main>
 <br>
 <br>
@@ -192,6 +395,46 @@ margin-top: -20px;
 padding-bottom: 30px;
 }
 
+@media screen and (max-width: 1900px) {
+.presentation {
+display: flex;
+width: 92%;
+margin: auto;
+min-height: 88vh;
+padding-top: 45px;
+}
+
+.presentation2 {
+display: flex;
+width: 90%;
+margin: auto;
+margin-top: 10em;
+padding-bottom: 150px;
+}
+
+.intro-text2 p {
+font-size: 22px;
+line-height: 25px;
+color: #ffffff;
+font-weight: 500;
+font-stretch: normal;
+line-height: 1.47;
+}
+
+.presentation3 {
+display: flex;
+width: 92%;
+margin: auto;
+margin-top: 155px;
+}
+
+.cover img {
+margin-top: 20px;
+height: 70vh;
+flex: 1;
+}
+}
+
 @media screen and (min-width: 1900px) {
 .presentation {
 display: flex;
@@ -247,13 +490,13 @@ flex: 1;
 font-size: 44px;
 font-weight: 600;
 margin-top: 35px;
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 }
 
 .intro-text2 h2 {
 font-size: 44px;
 font-weight: 600;
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 }
 
 .intro-text p {
